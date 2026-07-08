@@ -42,7 +42,7 @@ os.makedirs("uploads", exist_ok=True)
 # ════════════════════════════════════════════════════════════
 #  الإعدادات — غيّرها حسب شبكتك
 # ════════════════════════════════════════════════════════════
-NODEMCU_IP   = "10.169.255.182"   # ← IP الـ NodeMCU (من Serial Monitor)
+NODEMCU_IP   = "10.101.47.182"   # ← IP الـ NodeMCU (من Serial Monitor)
 AI_MODEL_URL = ""                # ← URL موديل الـ AI (لما يكون جاهز)
 USE_FAKE_AI  = True              # ← True = تحليل وهمي للاختبار
 
